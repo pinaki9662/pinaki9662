@@ -20,11 +20,13 @@
 
 ---
 
+
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,github,vscode" />
 </p>
+
 
 ## 📚 Currently Learning
 
