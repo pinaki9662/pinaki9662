@@ -1,81 +1,71 @@
-# 👋 Hi, I'm Pinaki Prasad Karak
 
-<h3 align="center">🎓 B.Tech CSE (AI/ML) Student | 💻 C & Python Programmer | 🚀 Future Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Pinaki Prasad Karak</h1>
 
-<p align="center">
-  Passionate about programming, Artificial Intelligence, Machine Learning, and Web Development.
-  <br/>
-  🌱 Learning every day | 🛠️ Building projects | 🎯 Improving my skills
-</p>
+<h3 align="center">B.Tech CSE (AI/ML) Student | Aspiring Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pinaki9662&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
+  Learning programming, Data Structures and Algorithms,
+  and exploring Artificial Intelligence and Machine Learning.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI/ML) student
-- 💻 Interested in C, Python, and problem-solving
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌐 Learning Web Development
-- 📚 Believe in consistent learning and practical projects
+- 🎓 B.Tech CSE (AI/ML) student at Adamas University
+- 💻 Learning C and Python programming
+- 🌱 Currently improving my problem-solving skills
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Building projects and learning every day
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
 </p>
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Python Programming
+- Problem Solving
+- Machine Learning fundamentals
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pinaki9662&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki9662&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pinaki9662&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki9662&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pinaki9662&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=pinaki9662&theme=radical" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🔹 [Programming C](https://github.com/pinaki9662/programming-c) — C programming practice
-- 🔹 [Newcreation-demo](https://github.com/pinaki9662/Newcreation-demo) — My Git repository
-- 🔹 [CODSOFT_TASKSNO](https://github.com/pinaki9662/CODSOFT_TASKSNO) — Python internship tasks
+- [Programming C](https://github.com/pinaki9662/programming-c) — C programming practice
+- [Newcreation-demo](https://github.com/pinaki9662/Newcreation-demo) — My GitHub practice repository
+- [CODSOFT_TASKSNO](https://github.com/pinaki9662/CODSOFT_TASKSNO) — Internship tasks
+- [Pinaki Portfolio](https://github.com/pinaki9662/pinaki-portfolio) — Personal portfolio website
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 My Goal
+
+To become a skilled software developer by continuously learning,
+building projects, and solving coding problems.
+
+---
 
 <p align="center">
-  <a href="https://github.com/pinaki9662">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
+  <b>Thanks for visiting my profile! 😊</b>
 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! Keep learning and keep building.
-</p>## Hi there 👋
 
-<!--
-**pinaki9662/pinaki9662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
